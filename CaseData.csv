@@ -1,0 +1,8 @@
+﻿Study,SampleSize,AllocationRatio,TreatDays,NumCtrl,NumTrtm,NumPooled
+1,354,2    ,53,0,8,8
+2,305,2    ,220,1,3,4
+3,244,2    ,54,4,16,20
+4,307,1    ,159,,,5
+5,582,1    ,163,,,6
+6,68,1    ,82,,,2
+7,307,2    ,160,,,7
